@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Gateway Template\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-04-30 22:10+0300\n"
+"PO-Revision-Date: 2023-04-30 22:10+0300\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/Ajax/Base.php:109
+msgid "Action failed. Please try again."
+msgstr "Не получилось. Пожалуйста, попробуйте еще раз."
+
+#: includes/Admin/Pages/Settings.php:101
+msgid "Save debug messages to the WooCommerce System Status log"
+msgstr "Сохранять отладочные сообщения в журнал состояния системы WooCommerce."
+
+#. Author URI of the plugin
+msgid "https://onepix.net"
+msgstr "https://onepix.net"
+
+#. Author of the plugin
+msgid "Onepix"
+msgstr "Onepix"
+
+#. Plugin Name of the plugin
+#: includes/Admin/Pages/Settings.php:291
+#: includes/Admin/Pages/Settings.php:292
+#: includes/MyAccount/BonusPlus.php:40
+msgid "BonusPlus"
+msgstr "БонусПлюс"
+
+#: includes/Actions/Cart.php:81
+msgid "Coupons disable BonusPlus discount"
+msgstr "Купоны отменяют скидку от БонусПлюс"
+
+#: includes/Admin/Main.php:51
+msgid "Plugin settings"
+msgstr "Настройки плагина"
+
+#: includes/Admin/Main.php:51
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/Admin/Pages/Settings.php:54
+msgid "BonusPlus API"
+msgstr "БонусПлюс API"
+
+#: includes/Admin/Pages/Settings.php:59
+msgid "API key"
+msgstr "API ключ"
+
+#: includes/Admin/Pages/Settings.php:63
+msgid "Shop name"
+msgstr "Имя магазина"
+
+#: includes/Admin/Pages/Settings.php:188
+msgid "BonusPlus simple message (Empty cart)"
+msgstr "Простое сообщение БонусПлюс (пустая корзина)"
+
+#: includes/Admin/Pages/Settings.php:193
+#: includes/Admin/Pages/Settings.php:229
+msgid "Message title"
+msgstr "Заголовок сообщения"
+
+#: includes/Admin/Pages/Settings.php:194
+#: includes/Admin/Pages/Settings.php:230
+msgid "BonusPlus registration"
+msgstr "БонусПлюс регистрация"
+
+#: includes/Admin/Pages/Settings.php:198
+#: includes/Admin/Pages/Settings.php:234
+msgid "Message text"
+msgstr "Текст сообщения"
+
+#: includes/Admin/Pages/Settings.php:199
+msgid "Log in and use your personal discount"
+msgstr "Войдите и используйте свою личную скидку"
+
+#: includes/Admin/Pages/Settings.php:208
+#: includes/Admin/Pages/Settings.php:245
+msgid "Message image"
+msgstr "Изображение сообщения"
+
+#: includes/Admin/Pages/Settings.php:213
+msgid "Time until message first appears (minutes)"
+msgstr "Время до первого появления сообщения (минуты)"
+
+#: includes/Admin/Pages/Settings.php:218
+msgid "Time to re-display message (minutes). Zero to disable repetition"
+msgstr "Время повторного отображения сообщения (минуты). Ноль, чтобы отключить повторение"
+
+#: includes/Admin/Pages/Settings.php:224
+msgid "BonusPlus discount message (Not empty cart)"
+msgstr "Сообщение о скидке BonusPlus (не пустая корзина)"
+
+#. translators: %1$s - price with discount,  %2$s - regular price.
+#: includes/Admin/Pages/Settings.php:236
+msgid "After registration in the loyalty system, the order amount will be %1$s instead of %2$s"
+msgstr "После регистрации в системе лояльности сумма заказа будет %1$s вместо %2$s"
+
+#: includes/Admin/Pages/Settings.php:250
+msgid "Discount in percents"
+msgstr "Скидка в процентах"
+
+#: includes/Admin/Pages/Settings.php:260
+msgid "Privacy policy"
+msgstr "Политика конфиденциальности"
+
+#: includes/Admin/Pages/Settings.php:265
+msgid "Privacy policy text"
+msgstr "Текст политики конфиденциальности"
+
+#: includes/Admin/Pages/Settings.php:266
+msgid "By registering you agree to the privacy policy"
+msgstr "Регистрируясь вы соглашаетесь с политикой конфиденциальности"
+
+#: includes/Admin/Pages/Settings.php:96
+msgid "Debug"
+msgstr "Отладка"
+
+#: includes/Ajax/Registration.php:51
+msgid "Phone number not provided"
+msgstr "Номер телефона не указан"
+
+#. translators: %1$s phone number.
+#: includes/Ajax/Registration.php:65
+msgid "Customer with phone number %1$s already exists. Use your phone at checkout to get discount"
+msgstr "Клиент с номером телефона %1$s уже существует. Используйте свой номер телефона при оплате, чтобы получить скидку"
+
+#: includes/Ajax/Registration.php:110
+msgid "Phone number or code not provided"
+msgstr "Номер телефона или код не указан"
+
+#: includes/Api/Account.php:36
+msgid "API active"
+msgstr "API активен"
+
+#: includes/Api/Base.php:115
+msgid "BonusPlus API error"
+msgstr "БонусПлюс ошибка API"
+
+#: includes/Api/Customer.php:151
+msgid "Customer not found"
+msgstr "Клиент не найден"
+
+#. Description of the plugin
+msgid "Bonus system via BonusPlus."
+msgstr "Бонусная система БонусПлюс"
+
+#. translators: %1$s - card name.
+#: templates/my-account/bonusplus/index.php:25
+msgid "Your card «%1$s»"
+msgstr "Ваша карта «%1$s»"
+
+#: templates/my-account/bonusplus/index.php:34
+msgid "Discount on next purchases"
+msgstr "Скидка на следующие покупки"
+
+#: templates/my-account/bonusplus/index.php:48
+msgid "Increase the total amount of purchases and increase the percentage of fireproof discounts on future purchases!"
+msgstr "Увеличивайте общую сумму покупок и повышайте процент несгораемой скидки на последующие покупки!"
+
+#. translators: %1$s - url to phone form input.
+#: templates/my-account/bonusplus/index.php:64
+msgid "Specify your phone number <a href=\"%1$s\" target=\"_blank\">here</a> to get BonusPlus benefits"
+msgstr "Укажите ваш номер телефона <a href=\"%1$s\" target=\"_blank\">здесь</a> чтобы получить скидку от БонусПлюс"
+
+#: templates/my-account/bonusplus/index.php:67
+msgid "Make an order and you will be automatically registered with BonusPlus"
+msgstr "Сделайте заказ и вы будуте автоматически зарегистрированы в БонусПлюс"
+
+#: includes/Api/Base.php:109
+#: templates/my-account/bonusplus/index.php:69
+msgid "BonusPlus error. Try again or contact us"
+msgstr "Ошибка БонусПлюс. Попробуйте еще раз или свяжитесь с нами"
+
+#: templates/admin/pages/global-fields/image.php:32
+msgid "Upload"
+msgstr "Загрузить"
+
+#: templates/admin/pages/global-fields/image.php:38
+msgid "Remove"
+msgstr "Удалить"
+
+#. translators: %s link to bonus plus account.
+#: includes/Admin/Pages/Settings.php:66
+msgid "Can be found <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr "Можно найти <a href=\"%s\" target=\"_blank\">здесь</a>"
+
+#: includes/Ajax/Base.php:101
+msgid "You must be logged in"
+msgstr "Вы должны быть зарегистрированы"
+
+#. translators: %1$s - error message, %2$s - error code.
+#: includes/Entities/BPOrder.php:65
+msgid "Order not created in BonusPlus. Error: %1$s (%2$s)"
+msgstr "Заказ не создан в БонусПлюс. Ошибка: %1$s (%2$s)"
+
+#: includes/Admin/Pages/Settings.php:203
+#: includes/Admin/Pages/Settings.php:240
+msgid "Additional text under form"
+msgstr "Дополнительный текст под формой"
+
+#: includes/Admin/Pages/Settings.php:204
+#: includes/Admin/Pages/Settings.php:241
+msgid "After logging in, you will be able to receive an individual discount and special offers"
+msgstr "После авторизации вы сможете получать индивидуальную скидку и специальные предложения"
+
+#: includes/Admin/Pages/Settings.php:134
+msgid "Flash text"
+msgstr "Текст ярлыка"
+
+#: includes/Actions/Cart.php:118
+#: includes/Admin/Pages/Settings.php:275
+msgid "Bonuses"
+msgstr "Бонусы"
+
+#: includes/Admin/Pages/Settings.php:73
+msgid "Order statuses"
+msgstr "Статусы заказа"
+
+#: includes/Admin/Pages/Settings.php:78
+msgid "Order status for payment in BonusPlus"
+msgstr "Статус заказа для создания оплаты в БонусПлюс"
+
+#: includes/Admin/Pages/Settings.php:113
+#: includes/Admin/Pages/Settings.php:142
+#: includes/Admin/Pages/Settings.php:177
+msgid "General settings"
+msgstr "Основные настройки"
+
+#: includes/Admin/Pages/Settings.php:118
+#: includes/Admin/Pages/Settings.php:147
+#: includes/Admin/Pages/Settings.php:182
+msgid "Enable feature"
+msgstr "Включить"
+
+#. translators: %1$s discount percent.
+#: includes/Admin/Pages/Settings.php:136
+msgid "Discount: -%1$s"
+msgstr "Скидка: -%1$s"
+
+#: includes/Admin/Pages/Settings.php:152
+msgid "Enable write-off confirmation by SMS"
+msgstr "Включить подтверждение списания баллов по SMS"
+
+#: includes/Admin/Pages/Settings.php:273
+msgid "Main settings"
+msgstr "Главные настройки"
+
+#: includes/Admin/Pages/Settings.php:274
+msgid "Product discounts"
+msgstr "Скидки на товары"
+
+#: includes/Admin/Pages/Settings.php:276
+msgid "Popup messages"
+msgstr "Всплывающие сообщения"
+
+#. translators: %s reason.
+#: includes/Api/Account.php:30
+msgid "API not active. Reason: %1$s. Api settings are <a href=\"%2$s\">here</a>"
+msgstr "API не активирован. Причина: %1$s. Настройки API <a href=\"%2$s\">здесь</a>"
+
+#. translators: %s amount of applied bonuses.
+#: includes/Entities/BPOrder.php:75
+msgid "Order created in BonusPlus. Applied %s bonuses"
+msgstr "Заказ создан в БонусПлюс. Бонусов применено: %s"
+
+#: includes/Admin/Pages/Settings.php:123
+msgid "Enable double discount (Shop + BonusPlus)"
+msgstr "Включить двойную скидку (Магазин + БонусПлюс)"
+
+#: includes/Admin/Pages/Settings.php:129
+msgid "Discount flash"
+msgstr "Скидочный ярлык"
+
+#. translators: %s link to bonus plus account.
+#: includes/Admin/Pages/Settings.php:105
+msgid "Logs can be found <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr "Записи можно найти <a href=\"%s\" target=\"_blank\">здесь</a>"
+
+#: includes/Admin/Pages/Settings.php:157
+msgid "Maximum percentage of the cart amount. 100 to disable limit"
+msgstr "Максимальный процент от суммы товаров в корзине. 100 для отключения ограничения"
+
+#: includes/Admin/Pages/Settings.php:166
+msgid "Maximum percentage of the bonuses on the card. 100 to disable limit"
+msgstr "Максимальный процент от количества бонусов на карте. 100 для отключения ограничения"
+
+#: templates/checkout/order-review-bonuses.php:13
+msgid "Bonuses will be credited"
+msgstr "Бонусов будет начислено"
+
+#: templates/my-account/bonusplus/index.php:41
+msgid "Available bonuses"
+msgstr "Доступно бонусов"
+
+#: templates/my-account/bonusplus/index.php:53
+msgid "Make purchases and get more bonuses!"
+msgstr "Совершайте покупки и получайте больше бонусов!"
+
+#: includes/Api/Customer.php:40
+msgid "Phone number must not be empty"
+msgstr "Номер телефона должен быть заполнен"
+
+#. translators: %1$s amount of available bonuses.
+#: includes/Entities/BPCustomer.php:257
+msgid "Too many bonuses to apply. Available %1$s"
+msgstr "Недостаточно бонусов. Доступно %1$s"
+
+#: includes/Admin/Pages/Settings.php:85
+msgid "My account page"
+msgstr "Страница аккаунта покупателя"
+
+#: includes/Admin/Pages/Settings.php:90
+msgid "Title"
+msgstr "Заголовок"
+
+#: includes/Admin/Pages/Settings.php:91
+msgid "Bonus Plus"
+msgstr "БонусПлюс"

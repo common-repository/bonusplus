@@ -1,0 +1,329 @@
+# Copyright (C) 2024 Onepix
+# This file is distributed under the same license as the BonusPlus plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: BonusPlus 1.3.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bonusplus\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-03-13T19:57:08+03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: bonusplus\n"
+
+#. Plugin Name of the plugin
+#: includes/Admin/Pages/Settings.php:291
+#: includes/Admin/Pages/Settings.php:292
+#: includes/MyAccount/BonusPlus.php:40
+msgid "BonusPlus"
+msgstr ""
+
+#. Description of the plugin
+msgid "Bonus system via BonusPlus."
+msgstr ""
+
+#. Author of the plugin
+msgid "Onepix"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://onepix.net"
+msgstr ""
+
+#: includes/Actions/Cart.php:81
+msgid "Coupons disable BonusPlus discount"
+msgstr ""
+
+#: includes/Actions/Cart.php:118
+#: includes/Admin/Pages/Settings.php:275
+msgid "Bonuses"
+msgstr ""
+
+#: includes/Admin/Main.php:51
+msgid "Plugin settings"
+msgstr ""
+
+#: includes/Admin/Main.php:51
+msgid "Settings"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:54
+msgid "BonusPlus API"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:59
+msgid "API key"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:63
+msgid "Shop name"
+msgstr ""
+
+#. translators: %s link to bonus plus account.
+#: includes/Admin/Pages/Settings.php:66
+msgid "Can be found <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:73
+msgid "Order statuses"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:78
+msgid "Order status for payment in BonusPlus"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:85
+msgid "My account page"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:90
+msgid "Title"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:91
+msgid "Bonus Plus"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:96
+msgid "Debug"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:101
+msgid "Save debug messages to the WooCommerce System Status log"
+msgstr ""
+
+#. translators: %s link to bonus plus account.
+#: includes/Admin/Pages/Settings.php:105
+msgid "Logs can be found <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:113
+#: includes/Admin/Pages/Settings.php:142
+#: includes/Admin/Pages/Settings.php:177
+msgid "General settings"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:118
+#: includes/Admin/Pages/Settings.php:147
+#: includes/Admin/Pages/Settings.php:182
+msgid "Enable feature"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:123
+msgid "Enable double discount (Shop + BonusPlus)"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:129
+msgid "Discount flash"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:134
+msgid "Flash text"
+msgstr ""
+
+#. translators: %1$s discount percent.
+#: includes/Admin/Pages/Settings.php:136
+msgid "Discount: -%1$s"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:152
+msgid "Enable write-off confirmation by SMS"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:157
+msgid "Maximum percentage of the cart amount. 100 to disable limit"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:166
+msgid "Maximum percentage of the bonuses on the card. 100 to disable limit"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:188
+msgid "BonusPlus simple message (Empty cart)"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:193
+#: includes/Admin/Pages/Settings.php:229
+msgid "Message title"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:194
+#: includes/Admin/Pages/Settings.php:230
+msgid "BonusPlus registration"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:198
+#: includes/Admin/Pages/Settings.php:234
+msgid "Message text"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:199
+msgid "Log in and use your personal discount"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:203
+#: includes/Admin/Pages/Settings.php:240
+msgid "Additional text under form"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:204
+#: includes/Admin/Pages/Settings.php:241
+msgid "After logging in, you will be able to receive an individual discount and special offers"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:208
+#: includes/Admin/Pages/Settings.php:245
+msgid "Message image"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:213
+msgid "Time until message first appears (minutes)"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:218
+msgid "Time to re-display message (minutes). Zero to disable repetition"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:224
+msgid "BonusPlus discount message (Not empty cart)"
+msgstr ""
+
+#. translators: %1$s - price with discount,  %2$s - regular price.
+#: includes/Admin/Pages/Settings.php:236
+msgid "After registration in the loyalty system, the order amount will be %1$s instead of %2$s"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:250
+msgid "Discount in percents"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:260
+msgid "Privacy policy"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:265
+msgid "Privacy policy text"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:266
+msgid "By registering you agree to the privacy policy"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:273
+msgid "Main settings"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:274
+msgid "Product discounts"
+msgstr ""
+
+#: includes/Admin/Pages/Settings.php:276
+msgid "Popup messages"
+msgstr ""
+
+#: includes/Ajax/Base.php:101
+msgid "You must be logged in"
+msgstr ""
+
+#: includes/Ajax/Base.php:109
+msgid "Action failed. Please try again."
+msgstr ""
+
+#: includes/Ajax/Registration.php:51
+msgid "Phone number not provided"
+msgstr ""
+
+#. translators: %1$s phone number.
+#: includes/Ajax/Registration.php:65
+msgid "Customer with phone number %1$s already exists. Use your phone at checkout to get discount"
+msgstr ""
+
+#: includes/Ajax/Registration.php:110
+msgid "Phone number or code not provided"
+msgstr ""
+
+#. translators: %s reason.
+#: includes/Api/Account.php:30
+msgid "API not active. Reason: %1$s. Api settings are <a href=\"%2$s\">here</a>"
+msgstr ""
+
+#: includes/Api/Account.php:36
+msgid "API active"
+msgstr ""
+
+#: includes/Api/Base.php:109
+#: templates/my-account/bonusplus/index.php:69
+msgid "BonusPlus error. Try again or contact us"
+msgstr ""
+
+#: includes/Api/Base.php:115
+msgid "BonusPlus API error"
+msgstr ""
+
+#: includes/Api/Customer.php:40
+msgid "Phone number must not be empty"
+msgstr ""
+
+#: includes/Api/Customer.php:151
+msgid "Customer not found"
+msgstr ""
+
+#. translators: %1$s amount of available bonuses.
+#: includes/Entities/BPCustomer.php:257
+msgid "Too many bonuses to apply. Available %1$s"
+msgstr ""
+
+#. translators: %1$s - error message, %2$s - error code.
+#: includes/Entities/BPOrder.php:65
+msgid "Order not created in BonusPlus. Error: %1$s (%2$s)"
+msgstr ""
+
+#. translators: %s amount of applied bonuses.
+#: includes/Entities/BPOrder.php:75
+msgid "Order created in BonusPlus. Applied %s bonuses"
+msgstr ""
+
+#: templates/admin/pages/global-fields/image.php:32
+msgid "Upload"
+msgstr ""
+
+#: templates/admin/pages/global-fields/image.php:38
+msgid "Remove"
+msgstr ""
+
+#: templates/checkout/order-review-bonuses.php:13
+msgid "Bonuses will be credited"
+msgstr ""
+
+#. translators: %1$s - card name.
+#: templates/my-account/bonusplus/index.php:25
+msgid "Your card «%1$s»"
+msgstr ""
+
+#: templates/my-account/bonusplus/index.php:34
+msgid "Discount on next purchases"
+msgstr ""
+
+#: templates/my-account/bonusplus/index.php:41
+msgid "Available bonuses"
+msgstr ""
+
+#: templates/my-account/bonusplus/index.php:48
+msgid "Increase the total amount of purchases and increase the percentage of fireproof discounts on future purchases!"
+msgstr ""
+
+#: templates/my-account/bonusplus/index.php:53
+msgid "Make purchases and get more bonuses!"
+msgstr ""
+
+#. translators: %1$s - url to phone form input.
+#: templates/my-account/bonusplus/index.php:64
+msgid "Specify your phone number <a href=\"%1$s\" target=\"_blank\">here</a> to get BonusPlus benefits"
+msgstr ""
+
+#: templates/my-account/bonusplus/index.php:67
+msgid "Make an order and you will be automatically registered with BonusPlus"
+msgstr ""
